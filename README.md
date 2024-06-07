@@ -7,10 +7,10 @@ nordstromRack is a project aimed at providing a seamless shopping experience for
 This project focuses on developing an online platform for Nordstrom Rack customers to browse and purchase products conveniently. It includes features such as user authentication, product catalog browsing, shopping cart management, and secure payment processing.
 
 ## Features
-  Home Page
-![ScreenShot currently unavailable]( https://i.postimg.cc/QNJhwbVj/Home-page.png)
+  Home Page <br>
+![ScreenShot currently unavailable]( https://i.postimg.cc/QNJhwbVj/Home-page.png)<br><br>
 - Login page <br>
-  ![ScreenShot currently unavailable](https://i.postimg.cc/cLw0hP9h/Login-page.png)<br><br>
+  ![ScreenShot currently unavailable](https://i.postimg.cc/Jz9Xsytn/Login-page.png)<br><br>
 - Product Page<br>
   ![ScreenShot currently unavailable](https://i.postimg.cc/dVMyNPBS/product-page-2.png)<br><br>
 - Cart Page<br>
